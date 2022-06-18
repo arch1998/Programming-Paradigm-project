@@ -1,0 +1,92 @@
+body{
+
+	background-image: url("img/nature.jpeg");
+}
+
+.container{
+	display: block;
+	margin: auto;
+	padding: 10px;
+	max-width: 600px;
+	background-color: white;
+	height: 60vh;
+	overflow: auto;
+	/*background-color:#7cf8e9;*/
+	border: 2px solid;
+	border-radius: 6px;
+}
+.icon{
+	
+	background-color: slateblue;
+	height: 50px;
+	margin: auto;
+	max-width:620px;
+	border-radius: 6px;
+	align-items: center;
+	
+}
+
+img{
+	display: block;
+	margin:auto;
+	width:100px;
+	height:50px;
+	float: left;
+}
+
+
+.message{
+	margin: auto;
+	/*border: 2px solid;*/
+	border-radius: 6px;
+	font-size:20px;
+	margin-bottom:10px;
+	font-color: black;
+
+
+}
+.left{
+	float: left;
+	background-color: orange;
+	clear: both;
+	max-width: 50%;
+	width:280px;
+	padding:10px;
+
+}
+
+.right{
+	float: right;
+	background-color:#7cf8e9;
+	clear: both;
+	max-width: 50%;
+	width:280px;
+	padding:10px;
+}
+
+input{
+	height: 45px;
+	width: 80%;
+	border: 2px solid;
+	border-radius: 6px;
+	font-size:20px;
+	background-color: #f8c6d2;
+}
+
+.btn{
+	height: 48px;
+	width:18%;
+	background-color: orange;
+	transition-duration: 0.4s;
+}
+.btn:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+
+h1{
+	color: yellow;
+	text-shadow: 2px 2px #ff0000;
+	font-family: "Times New Roman", Times, serif;
+}
