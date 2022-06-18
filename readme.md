@@ -1,3 +1,6 @@
+proj.pdf contains all the screenshot of the project please go through it once.
+
+
 Requirement:
 	Python3.x compiler
 	python3 libraries - TensorFlow, Tflearn, eel, nltk, numpy, json
